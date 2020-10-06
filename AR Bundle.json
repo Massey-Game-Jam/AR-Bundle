@@ -1,0 +1,36 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "AR Bundle",
+      "webhookUrl": "https://discordapp.com/api/webhooks/743845815008886836/rOU0ycD7Y6YFAPsL1J-4OOFkV2RvtwMqtd-Gm9gyH933UrReHE0A5nOK7js_OZLxHWpy",
+      "message": {
+        "embeds": [
+          {
+            "title": "AR Bundle: Augmented Reality — App & Game Templates, AR Plugins",
+            "description": "**AR Bundle — Complete Collection of AR Projects & AR Tools.**\n\nBundle includes the next 12 assets. After purchasing this bundle, visit each package listed below, add to your assets and you will be able to get them for free:\n\n— AR Masks\n— AR Toss Boss\n— AR Survival Shooter\n— AR Space Shooter\n— AR Menu (AR Foundation: ARKit, ARCore)\n— AR Menu (Vuforia)\n— AR Basketball GO\n— AR Throwing\n— AR Camera GYRO\n— AR + VR: MR Camera\n— AR Camera ACCELEROMETER\n— AR Shadow\n\n**LIMITATIONS**\nLearn Limitations for Each Asset separately.\n",
+            "color": 65307,
+            "fields": [
+              {
+                "name": "Check out the link below to find more information:",
+                "value": "https://makaka.org/o/ar"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Assets",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "timestamp": "2020-10-06T01:52:00.000Z",
+            "image": {
+              "url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/26e0203e-658a-468e-9a21-b6ab76e30af1.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
